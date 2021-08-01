@@ -65,8 +65,8 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
-  }
-  /* Hero Style End */
+}
+
 .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
@@ -236,3 +236,4 @@ section {
 }
   
   /* REACH OUT STYLES END */
+  
