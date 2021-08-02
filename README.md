@@ -11,3 +11,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Anna Williams
+
+# Run Buddy Inc.
