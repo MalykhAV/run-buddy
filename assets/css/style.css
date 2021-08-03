@@ -72,6 +72,9 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .hero-form {
@@ -85,8 +88,8 @@ section {
     right: 140px;
 }
 .hero-form h3 {
-    font-size: 24px;
-    margin: 0;
+    font-size: 40%;
+    margin: 3.5%;
 }
   
 .hero-form p {
@@ -112,6 +115,19 @@ section {
     padding: 10px 20px;
     font-size: 16px;
   }
+.hero-cta {
+    width: 35%;
+    text-align: right;
+    margin: 3.5%;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.3;
+}
+.hero-cta h2 {
+    font-style: italic;
+    font-size: 55px;
+    color: #fce138;
+}
   /* HERO STYLES END */
 
 .intro {
