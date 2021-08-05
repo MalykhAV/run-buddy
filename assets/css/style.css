@@ -34,12 +34,14 @@ header nav ul li a {
     padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55 vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 header h1 {
     font-weight: bold;
     font-size: 36px;
     color: #fce138;
     margin: 0;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 footer {
     background: #fce138;
@@ -87,14 +89,17 @@ section {
     font-style: italic;
     font-size: 55px;
     color: #fce138;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .hero-form {
     border: 3px solid #024e76;
-    background-color: #fce138;
+    background-color: rgba(252, 225, 56, 0.8);
     padding: 20px;
     width: 40%;
     color: #024e76;
     margin: 3.5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
 }
 .hero-form h3 {
     font-size: 24px;
@@ -113,6 +118,7 @@ section {
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
+    border-radius: 15px;
 }
 .hero-form label {
     margin: 0 5px;
@@ -123,6 +129,7 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+    border-radius: 15px;
   }
 
   /* HERO STYLES END */
@@ -285,6 +292,7 @@ section {
     width: 100%;
     margin-bottom: 15px;
     margin-top: 5px;
+    border-radius: 15px;
 }
 .contact-form button {
     width: 100%;
@@ -294,6 +302,7 @@ section {
     text-align: center;
     padding: 15px 0;
     font-size: 16px;
+    border-radius: 15px;
 }
   /* REACH OUT STYLES END */
 
@@ -319,7 +328,7 @@ section {
         width: 100%;
         text-align: center;
     }
-    
+        
     header nav ul {
         margin-top: 20px;
         width: 100%;
@@ -338,7 +347,7 @@ section {
         width: 100%;
     }
       
-      .hero-cta {
+    .hero-cta {
         text-align: center;
     }
     .section-title {
